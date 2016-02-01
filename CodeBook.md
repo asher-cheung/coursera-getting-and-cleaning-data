@@ -38,4 +38,4 @@ The "run_analysis.R" script takes the following steps to complete the project re
 A "tidy_data.txt" is generated after running the "run_analysis.R" script. This data file contains a comma separated data set with the following columns.
 * `activity` describes the names of the activities. 
 * `subject` identifies the index of the test volunteers.
-* `tbody- or fbody-` 
+* `tbody- or fbody- columns` record the average of each variable for each activity and each subject.
