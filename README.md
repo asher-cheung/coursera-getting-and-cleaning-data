@@ -2,7 +2,7 @@
 
 This repo hosts the R script and coresponding instructions documentst for the Getting and Cleaning Data course in Coursera.
 
-## Overview
+A full description and download link for the dataset used in this project can be found at [Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
 ## Files
 * `CodeBook.md` describes all the variables and summaries calculated, along with units, and any other relevant information for this data analysis project.
