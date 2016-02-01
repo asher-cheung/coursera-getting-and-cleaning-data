@@ -2,7 +2,19 @@
 
 ## Overview
 
-## Original Data Set
+## Input Files
+* 'features.txt': List of all features. There are 561 features in total.
+* 'activity_labels.txt': Links the class labels with their activity name. These datasets measure the following 6 activities.
+  * WALKING
+  * WALKING_UPSTAIRS
+  * WALKING_DOWNSTAIRS
+  * SITTING
+  * STANDING
+  * LAYING
+* 'train/X_train.txt': Training set.
+* 'train/y_train.txt': Training labels.
+* 'test/X_test.txt': Test set.
+* 'test/y_test.txt': Test labels.
 
 ## Analysis Instructions
 
